@@ -1,0 +1,30 @@
+name: generate pacman
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate pacman svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: deploy pacman to output branch
+        uses: JamesIves/github-pages-deploy-action@v4.8.0
+        with:
+          branch: output
+          folder: dist
+          clean: true
