@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Cryptography-Enthusiast-1e293b?style=for-the-badge" />
 </p>
 
+## Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 ---
 
 ## About Me
