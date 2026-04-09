@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Cryptography-Enthusiast-052e16?style=for-the-badge" />
 </p>
 
-## 3D Activity
+### 3D Activity
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" width="100%" />
 </p>
