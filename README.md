@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm YOUR_NAME</h1>
+<h1 align="center">Hi, I'm Sakuya133</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=780&lines=Cyber+Security+Enthusiast;Software+Engineering;Cryptography+Enthusiast;Secure+Systems+%7C+Clean+Code+%7C+Curious+Mind" alt="Typing SVG" />
@@ -12,10 +10,6 @@
   <img src="https://img.shields.io/badge/Cryptography-Enthusiast-1e293b?style=for-the-badge" />
 </p>
 
-## Activity Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 ---
 
 ## About Me
@@ -37,8 +31,13 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakuya133&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakuya133&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakuya133/Sakuya133/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## Current Interests
